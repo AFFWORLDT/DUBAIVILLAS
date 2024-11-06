@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-16"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Amenities-CommunityPavilion" transform="translate(-4437 -1945)">
+    <rect id="Rectangle_2229" width="80" height="80" transform="translate(4437 1945)" fill="#fff" opacity="0" />
+    <g id="Group_1723" transform="translate(-0.471 2.686)">
+      <g id="Group_750" transform="translate(4473 1951.375)">
+        <path id="Path_1771" d="M-14936.024-24291.254h-4.873v11.219h2.3v12.859h5.53v-12.859h2.175v-11.219Z" transform="translate(14940.897 24299.834)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <circle id="Ellipse_57" cx="3.035" cy="3.035" r="3.035" transform="translate(1.879 0.001)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      </g>
+      <g id="Group_1719" transform="translate(4453 1961.508)">
+        <path id="Path_1771-2" d="M-14936.024-24291.254h-4.873v11.219h2.3v12.859h5.53v-12.859h2.175v-11.219Z" transform="translate(14940.897 24299.834)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <circle id="Ellipse_57-2" cx="3.035" cy="3.035" r="3.035" transform="translate(1.879 0)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      </g>
+      <g id="Group_1720" transform="translate(4492 1961.508)">
+        <path id="Path_1771-3" d="M-14936.024-24291.254h-4.873v11.219h2.3v12.859h5.53v-12.859h2.175v-11.219Z" transform="translate(14940.897 24299.834)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <circle id="Ellipse_57-3" cx="3.035" cy="3.035" r="3.035" transform="translate(1.879 0)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      </g>
+      <g id="Group_1721" transform="translate(4463 1980.596)">
+        <path id="Path_1771-4" d="M-14936.024-24291.254h-4.873v11.219h2.3v12.859h5.53v-12.859h2.175v-11.219Z" transform="translate(14940.897 24299.834)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <circle id="Ellipse_57-4" cx="3.035" cy="3.035" r="3.035" transform="translate(1.879 0.001)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      </g>
+      <g id="Group_1722" transform="translate(4482 1980.596)">
+        <path id="Path_1771-5" d="M-14936.024-24291.254h-4.873v11.219h2.3v12.859h5.53v-12.859h2.175v-11.219Z" transform="translate(14940.897 24299.834)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <circle id="Ellipse_57-5" cx="3.035" cy="3.035" r="3.035" transform="translate(1.879 0.001)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      </g>
+      <path id="Path_3709" d="M-14361.181-22025.717a8.1,8.1,0,0,0-3.34,9.477c2.063,6.248,13.373,8.254,13.373,8.254" transform="translate(18811 24008)" fill="rgba(0,0,0,0)" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <path id="Path_3710" d="M-14354.956-22025.717a8.1,8.1,0,0,1,3.34,9.477c-2.063,6.248-13.373,8.254-13.373,8.254" transform="translate(18860.078 24008)" fill="rgba(0,0,0,0)" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_413" x2="5" transform="translate(4465.5 1977.5)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_414" x2="5" transform="translate(4484.5 1977.5)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+    </g>
+  </g>
+</svg>

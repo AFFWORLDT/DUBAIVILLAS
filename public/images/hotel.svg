@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Amenties-HotelServices" transform="translate(-3737.001 -1543)">
+    <g id="IbnBattuta-Dist06" transform="translate(3737.001 1543)">
+      <g id="Group_1636" transform="translate(0)">
+        <g id="Icon-Locate">
+          <rect id="Rectangle_1958" width="80" height="80" fill="#59595c" opacity="0" />
+        </g>
+      </g>
+      <g id="Group_1640" transform="translate(16.667 16.673)">
+        <rect id="Rectangle_2544" width="46.667" height="10" transform="translate(0 30.182)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <path id="Rectangle_2545" d="M3,0H43.667a3,3,0,0,1,3,3v8.667a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V3A3,3,0,0,1,3,0Z" transform="translate(0 18.516)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <line id="Line_369" y2="8.333" transform="translate(4.165 41.016)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <line id="Line_370" y2="8.333" transform="translate(42.502 41.016)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <path id="Path_3632" d="M-18351.137-22529.906v-16.676h37.75v16.676" transform="translate(18355.303 22546.582)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <path id="Path_3633" d="M-18351.137-22540.262v-6.324h11.059v6.324" transform="translate(18361.742 22555.443)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <path id="Path_3634" d="M-18351.137-22540.262v-6.324h11.059v6.324" transform="translate(18375.58 22555.443)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+      </g>
+    </g>
+  </g>
+</svg>

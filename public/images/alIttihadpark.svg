@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Amenties-AlIttihadPark" transform="translate(-3457 -1393)">
+    <g id="Group_1646" transform="translate(3457 1393)">
+      <rect id="Rectangle_1890" width="80" height="80" transform="translate(0)" fill="none" opacity="0" />
+      <g id="Group_253" transform="translate(11.112 8.887)">
+        <path id="Path_1651" d="M16.775-1C23.436-1,28.458,7.642,31.1,16.12A35.269,35.269,0,0,1,32.55,26.172c0,11.659-6.192,17.273-15.775,17.273S1,37.831,1,26.172,7.192-1,16.775-1Z" transform="translate(-1 1)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <path id="Subtraction_4" d="M21.087,28.888H7.753A8.906,8.906,0,0,1,0,24.349,20.722,20.722,0,0,0,2.419,13.838c0-.306,0-.621-.013-.938a8.8,8.8,0,0,1,3.461-1.588,8.888,8.888,0,1,1,17.108,0,8.889,8.889,0,0,1-1.888,17.576Z" transform="translate(29.131 13.334)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <line id="Line_116" y2="44.444" transform="translate(15.775 12.222)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <line id="Line_121" y2="35.556" transform="translate(43.743 21.111)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <line id="Line_117" y1="5.556" x2="8.889" transform="translate(15.775 31.111)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <line id="Line_122" y1="5.556" x2="8.889" transform="translate(43.743 31.111)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <line id="Line_119" x1="8.889" y1="5.556" transform="translate(6.886 31.111)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <line id="Line_123" x1="8.889" y1="5.556" transform="translate(34.855 31.111)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <line id="Line_118" x1="6.667" y1="8.889" transform="translate(9.108 18.889)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <line id="Line_120" y1="8.889" x2="6.667" transform="translate(16.363 18.889)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+        <circle id="Ellipse_26" cx="3.333" cy="3.333" r="3.333" transform="translate(36.886)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <path id="Path_1653" d="M-13942.6-18929.1s14.767-7.092,29.047-7.092,28.077,7.092,28.077,7.092" transform="translate(13942.604 18991.33)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+      </g>
+    </g>
+  </g>
+</svg>

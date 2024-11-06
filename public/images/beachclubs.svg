@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-16"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Amenities-BeachClubs" transform="translate(13918 24272)">
+    <g id="Group_662" transform="translate(-13918 -24272)" opacity="0.004">
+      <rect id="Rectangle_1888" width="80" height="80" fill="#fff" />
+    </g>
+    <g id="Group_661" transform="translate(-13909.668 -24258.668)">
+      <circle id="Ellipse_52" cx="5.359" cy="5.359" r="5.359" transform="translate(6.878 4.759)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <path id="Path_1742" d="M35.488,0A17.744,17.744,0,0,1,17.744,17.744,17.744,17.744,0,0,1,0,0" transform="translate(62.036 25.511) rotate(180)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <path id="Path_1743" d="M16.2,0c0,9.8-3.626,17.744-8.1,17.744S0,9.8,0,0" transform="translate(52.393 25.511) rotate(180)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_256" x2="35.35" transform="translate(26.702 25.667)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_257" y2="48.568" transform="translate(44.225 4.762)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_258" x2="61.667" transform="translate(0 53.337)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <rect id="Rectangle_2165" width="37.268" height="4.384" transform="translate(0.789 43.076)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <path id="Union_8" d="M8.559,13.371a2.609,2.609,0,0,1-.88-.152A2.6,2.6,0,0,1,6.115,12.17L.473,4.112a2.613,2.613,0,1,1,4.28-3L9.676,8.146H31.613a2.613,2.613,0,0,1,0,5.225Z" transform="translate(0.621 29.358)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_259" x1="2.192" y2="5.846" transform="translate(6.878 47.458)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_260" x2="2.192" y2="5.846" transform="translate(31.315 47.458)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_261" y1="1.667" transform="translate(12.236 0)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_262" y1="1.667" transform="translate(12.236 18.623)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_263" y1="1.667" transform="translate(22.401 10.55) rotate(90)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_264" y1="1.667" transform="translate(3.976 10.55) rotate(90)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_265" y1="1.667" transform="translate(19.425 3.092) rotate(45)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_266" y1="1.667" transform="translate(6.577 16.136) rotate(45)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_267" y1="1.667" transform="translate(19.425 17.314) rotate(135)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_268" y1="1.667" transform="translate(6.577 4.271) rotate(135)" fill="none" stroke="#b5aba3" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+    </g>
+  </g>
+</svg>

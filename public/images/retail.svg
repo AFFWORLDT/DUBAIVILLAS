@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Amenties-RetailCentre" transform="translate(-3877 -1683)">
+    <g id="Group_1695" transform="translate(3877 1683)">
+      <rect id="Rectangle_1885" width="80" height="80" transform="translate(0)" fill="#fff" opacity="0.004" />
+      <g id="Group_651" transform="translate(13.334 15.002)">
+        <path id="Path_1729" d="M16.213,38.79h27.3L39.2,0H3.283L2.351,6.612" transform="translate(11.073 9.616)" fill="rgba(0,0,0,0)" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <path id="Path_1730" d="M15.781,0V6.312A7.891,7.891,0,1,1,0,6.312V0" transform="translate(40.205 14.202) rotate(180)" fill="rgba(0,0,0,0)" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <path id="Path_1731" d="M2.919,0H27.24l2.919,26.268H0Z" transform="translate(0 22.139)" fill="rgba(0,0,0,0)" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+        <path id="Path_1732" d="M10.686,0V4.275A5.343,5.343,0,1,1,0,4.275V0" transform="translate(20.422 25.244) rotate(180)" fill="rgba(0,0,0,0)" stroke="#b5aba3" stroke-linecap="round" stroke-width="1.5" />
+      </g>
+    </g>
+  </g>
+</svg>
